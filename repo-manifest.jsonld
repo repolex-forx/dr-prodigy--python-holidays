@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dr-prodigy/python-holidays/commit/d3d32b9a9fbd1ebe1413c2b59eb158022fd01c2e",
       "git:hexsha": "d3d32b9a9fbd1ebe1413c2b59eb158022fd01c2e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:22:07.885755+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dr-prodigy/python-holidays/commit/2c7a4cd57463cebf8d069271df3cf9c2251c5cbb",

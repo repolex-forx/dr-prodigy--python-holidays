@@ -1,0 +1,11 @@
+{
+  "org": "dr-prodigy",
+  "repo": "python-holidays",
+  "versions": [
+    {
+      "commit": "d3d32b9a9fbd1ebe1413c2b59eb158022fd01c2e",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:22:07.886666+00:00"
+    }
+  ]
+}
